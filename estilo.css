@@ -1,0 +1,48 @@
+body {
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: gray;
+    color: red;
+    font-size: 150%;
+    text-transform: capitalize;
+}
+
+h3 {
+    background-color: darkgrey;
+    color: DarkMagenta;
+    font-size: 120%;
+}
+
+p {
+    background-color: lightgrey;
+    line-height: 150%;
+}
+
+address {
+    background-color: white;
+    font-style: normal;
+    text-align: right;
+}
+
+em {
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+strong {
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+}
